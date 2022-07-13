@@ -1,0 +1,68 @@
+{
+  "productList": [
+    {
+      "productName": "produto 1 editado 2x",
+      "category": "Food",
+      "freshness": "Brand new",
+      "price": 150,
+      "comment": "teste produto 1",
+      "date": "2022-06-07T03:00:00.000Z",
+      "id": 1
+    },
+    {
+      "productName": "produto 2",
+      "category": "Healthy",
+      "freshness": "Second hand",
+      "price": 25.5,
+      "comment": "produto 2",
+      "date": "2022-06-02T03:00:00.000Z",
+      "id": 2
+    },
+    {
+      "productName": "produto 3",
+      "category": "Food",
+      "freshness": "Refurbished",
+      "price": 5.99,
+      "comment": "produto 3",
+      "date": "2022-06-04T03:00:00.000Z",
+      "id": 3
+    },
+    {
+      "productName": "produto 4",
+      "category": "Eletronic",
+      "freshness": "Brand new",
+      "price": 15,
+      "comment": "produto 4 comentario",
+      "date": "2022-06-09T03:00:00.000Z",
+      "id": 4
+    },
+    {
+      "productName": "produto 5",
+      "category": "Food",
+      "freshness": "Brand new",
+      "price": 1,
+      "comment": "produto 5",
+      "date": "2022-06-03T03:00:00.000Z",
+      "id": 5
+    },
+    {
+      "productName": "produto 6",
+      "category": "Healthy",
+      "freshness": "Refurbished",
+      "price": 2,
+      "comment": "produto 6",
+      "date": "2022-06-02T03:00:00.000Z",
+      "id": 6
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
